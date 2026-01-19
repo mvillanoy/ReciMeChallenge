@@ -1,0 +1,823 @@
+[
+    {
+        "id": 1,
+        "title": "Vegetable Stir-Fry",
+        "description":
+            "A quick and colorful vegetable stir-fry with a savory soy-garlic sauce.",
+        "image":
+            "https://natashaskitchen.com/wp-content/uploads/2020/08/Vegetable-Stir-Fry-2-1.jpg",
+        "base_servings": 2,
+        "number_of_servings": 2,
+        "prep_time_minutes": 10,
+        "cooking_time_minutes": 10,
+        "ingredients": [
+            {
+                "id": 1,
+                "name": "vegetable oil",
+                "quantity": {
+                    "base": 15,
+                    "metric": {
+                        "value": 15,
+                        "unit": "ml"
+                    },
+                    "imperial": {
+                        "value": 1,
+                        "unit": "tbsp"
+                    }
+                }
+            },
+            {
+                "id": 2,
+                "name": "garlic",
+                "quantity": {
+                    "base": 2,
+                    "metric": {
+                        "value": 2,
+                        "unit": "cloves"
+                    },
+                    "imperial": {
+                        "value": 2,
+                        "unit": "cloves"
+                    }
+                }
+            },
+            {
+                "id": 3,
+                "name": "bell pepper",
+                "quantity": {
+                    "base": 1,
+                    "metric": {
+                        "value": 1,
+                        "unit": "piece"
+                    },
+                    "imperial": {
+                        "value": 1,
+                        "unit": "piece"
+                    }
+                }
+            },
+            {
+                "id": 4,
+                "name": "broccoli florets",
+                "quantity": {
+                    "base": 150,
+                    "metric": {
+                        "value": 150,
+                        "unit": "g"
+                    },
+                    "imperial": {
+                        "value": 1,
+                        "unit": "cup"
+                    }
+                }
+            },
+            {
+                "id": 5,
+                "name": "soy sauce",
+                "quantity": {
+                    "base": 30,
+                    "metric": {
+                        "value": 30,
+                        "unit": "ml"
+                    },
+                    "imperial": {
+                        "value": 2,
+                        "unit": "tbsp"
+                    }
+                }
+            }
+        ],
+        "cooking_instructions": [
+            "Heat vegetable oil in a pan over medium heat.",
+            "Add garlic and sauté until fragrant.",
+            "Add vegetables and stir-fry for 4–5 minutes.",
+            "Add soy sauce and toss to coat.",
+            "Serve hot."
+        ],
+        "dietary_attributes": [
+            "vegetarian",
+            "vegan"
+        ]
+    },
+    {
+        "id": 2,
+        "title": "Classic Spaghetti Bolognese",
+        "description":
+            "A hearty Italian pasta dish with a rich tomato and beef sauce.",
+        "image":
+            "https://vikalinka.com/wp-content/uploads/2020/03/Spaghetti-Bolognese-16-Edit.jpg",
+        "base_servings": 4,
+        "number_of_servings": 4,
+        "prep_time_minutes": 15,
+        "cooking_time_minutes": 30,
+        "ingredients": [
+            {
+                "id": 1,
+                "name": "spaghetti",
+                "quantity": {
+                    "base": 400,
+                    "metric": {
+                        "value": 400,
+                        "unit": "g"
+                    },
+                    "imperial": {
+                        "value": 14,
+                        "unit": "oz"
+                    }
+                }
+            },
+            {
+                "id": 2,
+                "name": "ground beef",
+                "quantity": {
+                    "base": 500,
+                    "metric": {
+                        "value": 500,
+                        "unit": "g"
+                    },
+                    "imperial": {
+                        "value": 1.1,
+                        "unit": "lb"
+                    }
+                }
+            },
+            {
+                "id": 3,
+                "name": "olive oil",
+                "quantity": {
+                    "base": 30,
+                    "metric": {
+                        "value": 30,
+                        "unit": "ml"
+                    },
+                    "imperial": {
+                        "value": 2,
+                        "unit": "tbsp"
+                    }
+                }
+            },
+            {
+                "id": 4,
+                "name": "crushed tomatoes",
+                "quantity": {
+                    "base": 400,
+                    "metric": {
+                        "value": 400,
+                        "unit": "g"
+                    },
+                    "imperial": {
+                        "value": 14,
+                        "unit": "oz"
+                    }
+                }
+            }
+        ],
+        "cooking_instructions": [
+            "Cook spaghetti according to package instructions.",
+            "Brown beef in olive oil.",
+            "Add tomatoes and simmer for 20 minutes.",
+            "Serve sauce over pasta."
+        ],
+        "dietary_attributes": [
+            "dairy-free"
+        ]
+    },
+    {
+        "id": 3,
+        "title": "Banana Oat Pancakes",
+        "description": "Fluffy pancakes made with oats and ripe bananas.",
+        "image":
+            "https://www.ambitiouskitchen.com/wp-content/uploads/2025/05/Banana-Oatmeal-Pancakes-7-750x750.jpg",
+        "base_servings": 2,
+        "number_of_servings": 2,
+        "prep_time_minutes": 5,
+        "cooking_time_minutes": 10,
+        "ingredients": [
+            {
+                "id": 1,
+                "name": "rolled oats",
+                "quantity": {
+                    "base": 90,
+                    "metric": {
+                        "value": 90,
+                        "unit": "g"
+                    },
+                    "imperial": {
+                        "value": 1,
+                        "unit": "cup"
+                    }
+                }
+            },
+            {
+                "id": 2,
+                "name": "banana",
+                "quantity": {
+                    "base": 2,
+                    "metric": {
+                        "value": 2,
+                        "unit": "pieces"
+                    },
+                    "imperial": {
+                        "value": 2,
+                        "unit": "pieces"
+                    }
+                }
+            },
+            {
+                "id": 3,
+                "name": "egg",
+                "quantity": {
+                    "base": 2,
+                    "metric": {
+                        "value": 2,
+                        "unit": "pieces"
+                    },
+                    "imperial": {
+                        "value": 2,
+                        "unit": "pieces"
+                    }
+                }
+            }
+        ],
+        "cooking_instructions": [
+            "Blend all ingredients until smooth.",
+            "Cook pancakes on a non-stick pan until golden.",
+            "Serve warm."
+        ],
+        "dietary_attributes": [
+            "vegetarian",
+            "gluten-free"
+        ]
+    },
+    {
+        "id": 4,
+        "title": "Chicken Teriyaki Bowl",
+        "description":
+            "Juicy chicken glazed in a sweet-savory teriyaki sauce served over rice.",
+        "image":
+            "https://modernmealmakeover.com/wp-content/uploads/2020/10/IMG_6548-4-800x530.jpg.webp",
+        "base_servings": 2,
+        "number_of_servings": 2,
+        "prep_time_minutes": 10,
+        "cooking_time_minutes": 20,
+        "ingredients": [
+            {
+                "id": 1,
+                "name": "chicken breast",
+                "quantity": {
+                    "base": 300,
+                    "metric": {
+                        "value": 300,
+                        "unit": "g"
+                    },
+                    "imperial": {
+                        "value": 10.5,
+                        "unit": "oz"
+                    }
+                }
+            },
+            {
+                "id": 2,
+                "name": "soy sauce",
+                "quantity": {
+                    "base": 45,
+                    "metric": {
+                        "value": 45,
+                        "unit": "ml"
+                    },
+                    "imperial": {
+                        "value": 3,
+                        "unit": "tbsp"
+                    }
+                }
+            },
+            {
+                "id": 3,
+                "name": "brown sugar",
+                "quantity": {
+                    "base": 25,
+                    "metric": {
+                        "value": 25,
+                        "unit": "g"
+                    },
+                    "imperial": {
+                        "value": 2,
+                        "unit": "tbsp"
+                    }
+                }
+            },
+            {
+                "id": 4,
+                "name": "cooked rice",
+                "quantity": {
+                    "base": 300,
+                    "metric": {
+                        "value": 300,
+                        "unit": "g"
+                    },
+                    "imperial": {
+                        "value": 1.5,
+                        "unit": "cups"
+                    }
+                }
+            }
+        ],
+        "cooking_instructions": [
+            "Cook chicken in a pan until browned.",
+            "Add soy sauce and brown sugar.",
+            "Simmer until sauce thickens.",
+            "Serve over rice."
+        ],
+        "dietary_attributes": [
+            "dairy-free"
+        ]
+    },
+    {
+        "id": 5,
+        "title": "Avocado Toast with Poached Egg",
+        "description":
+            "Creamy avocado on toasted bread topped with a perfectly poached egg.",
+        "image":
+            "https://pinchofyum.com/wp-content/uploads/2014/07/poached-egg-toast-5.jpg",
+        "base_servings": 1,
+        "number_of_servings": 1,
+        "prep_time_minutes": 5,
+        "cooking_time_minutes": 5,
+        "ingredients": [
+            {
+                "id": 1,
+                "name": "bread",
+                "quantity": {
+                    "base": 1,
+                    "metric": {
+                        "value": 1,
+                        "unit": "slice"
+                    },
+                    "imperial": {
+                        "value": 1,
+                        "unit": "slice"
+                    }
+                }
+            },
+            {
+                "id": 2,
+                "name": "avocado",
+                "quantity": {
+                    "base": 0.5,
+                    "metric": {
+                        "value": 0.5,
+                        "unit": "piece"
+                    },
+                    "imperial": {
+                        "value": 0.5,
+                        "unit": "piece"
+                    }
+                }
+            },
+            {
+                "id": 3,
+                "name": "egg",
+                "quantity": {
+                    "base": 1,
+                    "metric": {
+                        "value": 1,
+                        "unit": "piece"
+                    },
+                    "imperial": {
+                        "value": 1,
+                        "unit": "piece"
+                    }
+                }
+            }
+        ],
+        "cooking_instructions": [
+            "Toast the bread.",
+            "Mash avocado and spread on toast.",
+            "Poach egg and place on top.",
+            "Season and serve."
+        ],
+        "dietary_attributes": [
+            "vegetarian"
+        ]
+    },
+    {
+        "id": 6,
+        "title": "Creamy Mushroom Pasta",
+        "description":
+            "Rich and creamy pasta with sautéed mushrooms and garlic.",
+        "image":
+            "https://www.recipetineats.com/tachyon/2019/09/Creamy-Mushroom-Pasta_4.jpg?resize=900%2C1260&zoom=1",
+        "base_servings": 2,
+        "number_of_servings": 2,
+        "prep_time_minutes": 10,
+        "cooking_time_minutes": 20,
+        "ingredients": [
+            {
+                "id": 1,
+                "name": "pasta",
+                "quantity": {
+                    "base": 200,
+                    "metric": {
+                        "value": 200,
+                        "unit": "g"
+                    },
+                    "imperial": {
+                        "value": 7,
+                        "unit": "oz"
+                    }
+                }
+            },
+            {
+                "id": 2,
+                "name": "mushrooms",
+                "quantity": {
+                    "base": 200,
+                    "metric": {
+                        "value": 200,
+                        "unit": "g"
+                    },
+                    "imperial": {
+                        "value": 7,
+                        "unit": "oz"
+                    }
+                }
+            },
+            {
+                "id": 3,
+                "name": "cream",
+                "quantity": {
+                    "base": 150,
+                    "metric": {
+                        "value": 150,
+                        "unit": "ml"
+                    },
+                    "imperial": {
+                        "value": 0.6,
+                        "unit": "cup"
+                    }
+                }
+            }
+        ],
+        "cooking_instructions": [
+            "Cook pasta according to package instructions.",
+            "Sauté mushrooms until golden.",
+            "Add cream and simmer.",
+            "Combine with pasta and serve."
+        ],
+        "dietary_attributes": [
+            "vegetarian"
+        ]
+    },
+    {
+        "id": 7,
+        "title": "Berry Yogurt Parfait",
+        "description":
+            "A light and refreshing parfait layered with yogurt and fresh berries.",
+        "image":
+            "https://foolproofliving.com/wp-content/uploads/2017/12/Greek-Yogurt-Parfait-with-fruit-600x600.jpg",
+        "base_servings": 1,
+        "number_of_servings": 1,
+        "prep_time_minutes": 5,
+        "cooking_time_minutes": 0,
+        "ingredients": [
+            {
+                "id": 1,
+                "name": "greek yogurt",
+                "quantity": {
+                    "base": 200,
+                    "metric": {
+                        "value": 200,
+                        "unit": "g"
+                    },
+                    "imperial": {
+                        "value": 0.8,
+                        "unit": "cup"
+                    }
+                }
+            },
+            {
+                "id": 2,
+                "name": "mixed berries",
+                "quantity": {
+                    "base": 100,
+                    "metric": {
+                        "value": 100,
+                        "unit": "g"
+                    },
+                    "imperial": {
+                        "value": 0.5,
+                        "unit": "cup"
+                    }
+                }
+            },
+            {
+                "id": 3,
+                "name": "honey",
+                "quantity": {
+                    "base": 15,
+                    "metric": {
+                        "value": 15,
+                        "unit": "ml"
+                    },
+                    "imperial": {
+                        "value": 1,
+                        "unit": "tbsp"
+                    }
+                }
+            }
+        ],
+        "cooking_instructions": [
+            "Layer yogurt and berries in a glass.",
+            "Drizzle with honey.",
+            "Serve chilled."
+        ],
+        "dietary_attributes": [
+            "vegetarian",
+            "gluten-free"
+        ]
+    },
+    {
+        "id": 8,
+        "title": "Quinoa Salad with Roasted Vegetables",
+        "description":
+            "A healthy quinoa salad tossed with roasted seasonal vegetables and a lemon vinaigrette.",
+        "image":
+            "https://cookieandkate.com/images/2018/08/mediterranean-quinoa-salad-recipe-4.jpg",
+        "base_servings": 2,
+        "number_of_servings": 2,
+        "prep_time_minutes": 15,
+        "cooking_time_minutes": 25,
+        "ingredients": [
+            {
+                "id": 1,
+                "name": "quinoa",
+                "quantity": {
+                    "base": 100,
+                    "metric": {
+                        "value": 100,
+                        "unit": "g"
+                    },
+                    "imperial": {
+                        "value": 0.5,
+                        "unit": "cup"
+                    }
+                }
+            },
+            {
+                "id": 2,
+                "name": "zucchini",
+                "quantity": {
+                    "base": 1,
+                    "metric": {
+                        "value": 1,
+                        "unit": "piece"
+                    },
+                    "imperial": {
+                        "value": 1,
+                        "unit": "piece"
+                    }
+                }
+            },
+            {
+                "id": 3,
+                "name": "cherry tomatoes",
+                "quantity": {
+                    "base": 100,
+                    "metric": {
+                        "value": 100,
+                        "unit": "g"
+                    },
+                    "imperial": {
+                        "value": 0.7,
+                        "unit": "cup"
+                    }
+                }
+            },
+            {
+                "id": 4,
+                "name": "olive oil",
+                "quantity": {
+                    "base": 15,
+                    "metric": {
+                        "value": 15,
+                        "unit": "ml"
+                    },
+                    "imperial": {
+                        "value": 1,
+                        "unit": "tbsp"
+                    }
+                }
+            },
+            {
+                "id": 5,
+                "name": "lemon juice",
+                "quantity": {
+                    "base": 15,
+                    "metric": {
+                        "value": 15,
+                        "unit": "ml"
+                    },
+                    "imperial": {
+                        "value": 1,
+                        "unit": "tbsp"
+                    }
+                }
+            }
+        ],
+        "cooking_instructions": [
+            "Cook quinoa according to package instructions.",
+            "Roast zucchini and cherry tomatoes with olive oil for 20 minutes.",
+            "Mix roasted vegetables with quinoa and drizzle with lemon juice.",
+            "Serve chilled or warm."
+        ],
+        "dietary_attributes": [
+            "vegetarian",
+            "vegan",
+            "gluten-free"
+        ]
+    },
+    {
+        "id": 9,
+        "title": "Shrimp Tacos with Avocado Cream",
+        "description":
+            "Spicy shrimp tacos topped with creamy avocado sauce and fresh cilantro.",
+        "image":
+            "https://i0.wp.com/chefelizabethreese.com/wp-content/uploads/2024/08/Chipotle-Shrimp-Tacos-with-Avocado-Crema-3-scaled.jpg?w=1707&ssl=1",
+        "base_servings": 2,
+        "number_of_servings": 2,
+        "prep_time_minutes": 10,
+        "cooking_time_minutes": 10,
+        "ingredients": [
+            {
+                "id": 1,
+                "name": "shrimp",
+                "quantity": {
+                    "base": 200,
+                    "metric": {
+                        "value": 200,
+                        "unit": "g"
+                    },
+                    "imperial": {
+                        "value": 7,
+                        "unit": "oz"
+                    }
+                }
+            },
+            {
+                "id": 2,
+                "name": "taco shells",
+                "quantity": {
+                    "base": 4,
+                    "metric": {
+                        "value": 4,
+                        "unit": "pieces"
+                    },
+                    "imperial": {
+                        "value": 4,
+                        "unit": "pieces"
+                    }
+                }
+            },
+            {
+                "id": 3,
+                "name": "avocado",
+                "quantity": {
+                    "base": 1,
+                    "metric": {
+                        "value": 1,
+                        "unit": "piece"
+                    },
+                    "imperial": {
+                        "value": 1,
+                        "unit": "piece"
+                    }
+                }
+            },
+            {
+                "id": 4,
+                "name": "lime juice",
+                "quantity": {
+                    "base": 10,
+                    "metric": {
+                        "value": 10,
+                        "unit": "ml"
+                    },
+                    "imperial": {
+                        "value": 0.35,
+                        "unit": "oz"
+                    }
+                }
+            },
+            {
+                "id": 5,
+                "name": "cilantro",
+                "quantity": {
+                    "base": 5,
+                    "metric": {
+                        "value": 5,
+                        "unit": "g"
+                    },
+                    "imperial": {
+                        "value": 0.18,
+                        "unit": "oz"
+                    }
+                }
+            }
+        ],
+        "cooking_instructions": [
+            "Season shrimp and cook in a pan for 3-4 minutes per side.",
+            "Blend avocado with lime juice to make a cream.",
+            "Assemble shrimp in taco shells and top with avocado cream and cilantro.",
+            "Serve immediately."
+        ],
+        "dietary_attributes": [
+            "dairy-free",
+            "gluten-free"
+        ]
+    },
+    {
+        "id": 10,
+        "title": "Chocolate Chia Pudding",
+        "description":
+            "A rich and creamy chocolate pudding made with chia seeds, perfect for a healthy dessert.",
+        "image":
+            "https://i2.wp.com/www.downshiftology.com/wp-content/uploads/2023/09/Chocolate-Chia-Pudding-6-2.jpg",
+        "base_servings": 2,
+        "number_of_servings": 2,
+        "prep_time_minutes": 5,
+        "cooking_time_minutes": 0,
+        "ingredients": [
+            {
+                "id": 1,
+                "name": "chia seeds",
+                "quantity": {
+                    "base": 30,
+                    "metric": {
+                        "value": 30,
+                        "unit": "g"
+                    },
+                    "imperial": {
+                        "value": 3,
+                        "unit": "tbsp"
+                    }
+                }
+            },
+            {
+                "id": 2,
+                "name": "cocoa powder",
+                "quantity": {
+                    "base": 15,
+                    "metric": {
+                        "value": 15,
+                        "unit": "g"
+                    },
+                    "imperial": {
+                        "value": 1.5,
+                        "unit": "tbsp"
+                    }
+                }
+            },
+            {
+                "id": 3,
+                "name": "almond milk",
+                "quantity": {
+                    "base": 200,
+                    "metric": {
+                        "value": 200,
+                        "unit": "ml"
+                    },
+                    "imperial": {
+                        "value": 0.8,
+                        "unit": "cup"
+                    }
+                }
+            },
+            {
+                "id": 4,
+                "name": "maple syrup",
+                "quantity": {
+                    "base": 15,
+                    "metric": {
+                        "value": 15,
+                        "unit": "ml"
+                    },
+                    "imperial": {
+                        "value": 1,
+                        "unit": "tbsp"
+                    }
+                }
+            }
+        ],
+        "cooking_instructions": [
+            "Mix chia seeds, cocoa powder, almond milk, and maple syrup in a bowl.",
+            "Refrigerate for at least 2 hours or overnight.",
+            "Stir before serving and enjoy chilled."
+        ],
+        "dietary_attributes": [
+            "vegetarian",
+            "vegan",
+            "gluten-free",
+            "dairy-free"
+        ]
+    }
+]
