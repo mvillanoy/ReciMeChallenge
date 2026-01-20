@@ -33,3 +33,8 @@ struct InfoCard: View {
         .cornerRadius(16)
     }
 }
+
+
+#Preview {
+    InfoCard(icon: "flame", title: "Cook Time", value: "3 mins", color: .red)
+}

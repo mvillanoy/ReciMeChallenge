@@ -9,9 +9,11 @@
 /* Begin PBXBuildFile section */
 		212AD61B2F1CFD8A004B29DA /* Kingfisher in Frameworks */ = {isa = PBXBuildFile; productRef = 212AD61A2F1CFD8A004B29DA /* Kingfisher */; };
 		212AD88B2F1E782B004B29DA /* Shimmer in Frameworks */ = {isa = PBXBuildFile; productRef = 212AD88A2F1E782B004B29DA /* Shimmer */; };
+		2181C61A2F1F2DE9001C5AC3 /* .gitignore in Resources */ = {isa = PBXBuildFile; fileRef = 2181C6192F1F2DE2001C5AC3 /* .gitignore */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		2181C6192F1F2DE2001C5AC3 /* .gitignore */ = {isa = PBXFileReference; lastKnownFileType = text; path = .gitignore; sourceTree = "<group>"; };
 		21EF3F282F1920D6004EC5AE /* RecimeChallenge.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = RecimeChallenge.app; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
@@ -52,6 +54,7 @@
 		21EF3F1F2F1920D6004EC5AE = {
 			isa = PBXGroup;
 			children = (
+				2181C6192F1F2DE2001C5AC3 /* .gitignore */,
 				21EF3F2A2F1920D6004EC5AE /* RecimeChallenge */,
 				21EF3F292F1920D6004EC5AE /* Products */,
 			);
@@ -135,6 +138,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				2181C61A2F1F2DE9001C5AC3 /* .gitignore in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
